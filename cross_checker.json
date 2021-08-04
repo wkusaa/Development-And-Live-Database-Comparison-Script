@@ -1,0 +1,18 @@
+{
+    "server1" : {
+        "hostname" : null,
+        "username" : null,
+        "password" : null,
+        "database" : null,
+        "port" : null,
+        "socket" : null
+    },
+    "server2" : {
+        "hostname" : null,
+        "username" : null,
+        "password" : null,
+        "database" : null,
+        "port" : null,
+        "socket" : null
+    }
+}
