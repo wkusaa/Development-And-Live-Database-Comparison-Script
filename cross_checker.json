@@ -1,6 +1,6 @@
 {
     "server1" : {
-        "hostname" : "ignore",
+        "hostname" : null,
         "username" : null,
         "password" : null,
         "database" : null,
