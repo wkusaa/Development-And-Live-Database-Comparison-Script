@@ -15,6 +15,7 @@
 - Edit the cross_checker.json for the DBs you want to cross check
 
 ## Run Script
+- Run this is your favourite terminal
 ```sh
 cd "[your_directory]\Table_Column_Cross_Checker"
 php db_cross_check.php
