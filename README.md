@@ -21,4 +21,4 @@ cd "[your_directory]\Table_Column_Cross_Checker"
 php db_cross_check.php
 ```
 
-Enjoy!
+Enjoy! o(=´∇｀=)o
