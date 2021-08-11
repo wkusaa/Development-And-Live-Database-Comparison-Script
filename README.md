@@ -10,8 +10,14 @@
 - Make sure to have PHP install in your system beforehand.
 - Edit the php.ini and enable the mysqli extension. Sauce: https://stackoverflow.com/questions/54500881/how-do-i-enable-mysqli-for-my-php-script/54501457
 
+## Config
+- Go into the Table_Column_Cross_Checker folder you just installed.
+- Edit the cross_checker.json for the DBs you want to cross check
+
 ## Run Script
 ```sh
 cd "[your_directory]\Table_Column_Cross_Checker"
 php db_cross_check.php
 ```
+
+Enjoy!
