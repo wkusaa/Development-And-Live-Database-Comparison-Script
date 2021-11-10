@@ -1,7 +1,7 @@
 # Development-And-Live-Database-Comparison-Script
 
-- Table_Column_Cross_Checker is a PHP MYSQL Database Table Column comparison script that will check the difference of columns between 2 different DBs.
-- The common use case for this is to compare the live DB and the test DB to check and see if there's any missing columns between the two.
+- Development-And-Live-Database-Comparison-Script is a phpMyAdmin MYSQL Database Table & Column comparison script that will check the difference of tables and columns between 2 different DBs.
+- The common use case for this is to compare the live DB and the test DB to check and see if there's any missing tables or columns between the two.
 
 ## Installation
 - Clone this project in whatever directory you want.
